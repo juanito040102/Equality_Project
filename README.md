@@ -3,6 +3,9 @@
 Project to visualize the different equality index values throughout the world
 
 ## Description
+
+Visualizing Equality Data from EQUALDEX.COM
+
 ## Rationale
 ## Workflow
 ## Further Uses
